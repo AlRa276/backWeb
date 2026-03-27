@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS imagen_nam_nam;
-CREATE DATABASE imagenes_recetasimagen_nam_nam;
+CREATE DATABASE imagenes_nam_nam;
 USE imagen_nam_nam;
 
 CREATE TABLE imagenes_recetas (
